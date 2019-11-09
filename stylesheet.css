@@ -13,7 +13,9 @@ h3 {
 h2 {
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
-    background-color: darkgrey;
+    color: white;
+    background-color: black;
+    border-radius: 1em;
 }
 
 h1 {
@@ -89,12 +91,17 @@ ul {
 }
 
 #losgig {
-    height: 14em;
-    width: 20em;
+    height: 15em;
 }
 
-#palmtreestenerife {
-    float: right;
-    height: 20em;
-    width: 14em;
+#eiffelnight {
+    height: 15em;
+}
+
+#calarom {
+    height: 15em;
+}
+
+#pizza {
+    height: 15em;
 }
